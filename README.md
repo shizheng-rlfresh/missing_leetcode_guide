@@ -13,4 +13,4 @@ Minimal notes for LeetCode-style coding interviews, following one workflow:
 - `binary_search/`
 
 ## License
-MIT (see `LICENSE`)
+MIT (see [`LICENSE.md`](LICENCE.md))
